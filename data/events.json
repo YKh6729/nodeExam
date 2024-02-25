@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Tech Conference 2024",
+        "date": "2024-05-20",
+        "attendees": 120
+    },
+    {
+        "id": 2,
+        "name": "Work Development Workshop",
+        "date": "2024-06-15",
+        "attendees": 50
+    },
+    {
+        "name": "AI Summit",
+        "date": "2024-07-30",
+        "attendees": 0,
+        "id": 3
+    }
+]
